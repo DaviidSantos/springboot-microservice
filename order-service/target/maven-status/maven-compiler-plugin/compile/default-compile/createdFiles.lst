@@ -1,0 +1,10 @@
+com\daviidsantos\orderservice\controller\OrderController.class
+com\daviidsantos\orderservice\service\OrderService.class
+com\daviidsantos\orderservice\repository\OrderRepository.class
+com\daviidsantos\orderservice\OrderServiceApplication.class
+com\daviidsantos\orderservice\dto\OrderLineItemsDto.class
+com\daviidsantos\orderservice\dto\OrderRequest.class
+com\daviidsantos\orderservice\model\OrderLineItems.class
+com\daviidsantos\orderservice\model\Order.class
+com\daviidsantos\orderservice\model\OrderLineItems$OrderLineItemsBuilder.class
+com\daviidsantos\orderservice\model\Order$OrderBuilder.class

@@ -1,0 +1,6 @@
+com\daviidsantos\inventoryservice\model\Inventory$InventoryBuilder.class
+com\daviidsantos\inventoryservice\model\Inventory.class
+com\daviidsantos\inventoryservice\controller\InventoryController.class
+com\daviidsantos\inventoryservice\service\InventoryService.class
+com\daviidsantos\inventoryservice\repository\InventoryRepository.class
+com\daviidsantos\inventoryservice\InventoryServiceApplication.class

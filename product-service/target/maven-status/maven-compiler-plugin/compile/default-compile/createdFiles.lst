@@ -1,0 +1,10 @@
+com\daviidsantos\productservice\service\ProductService.class
+com\daviidsantos\productservice\repository\ProductRepository.class
+com\daviidsantos\productservice\model\Product.class
+com\daviidsantos\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\daviidsantos\productservice\ProductServiceApplication.class
+com\daviidsantos\productservice\model\Product$ProductBuilder.class
+com\daviidsantos\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\daviidsantos\productservice\dto\ProductRequest.class
+com\daviidsantos\productservice\dto\ProductResponse.class
+com\daviidsantos\productservice\controller\ProductController.class
